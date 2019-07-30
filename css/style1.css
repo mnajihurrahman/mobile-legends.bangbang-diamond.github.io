@@ -1,0 +1,1157 @@
+/*--A Design by W3layouts 
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    background: url(../../garena-gift.ml/img/PB_Acidpol_1920x1080.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.clear {
+    clear: both;
+}
+.header1 {
+    text-align: center;
+    width: 100%;
+}
+.header1 h1 {
+    font-size: 40px;
+    font-family: 'Tahoma', sans-serif;
+    text-transform: uppercase;
+    color: white;
+}
+.content1 {
+    width: 45%;
+    margin: 3% auto 0 auto;
+    text-align: center;
+    background-color: #000;
+    height: 340px;
+    padding: 30px;
+    border-radius: 7px;
+}
+.content1 input[type="text"] {
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    border: 1px solid white;
+    color: white;
+    text-align: left;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    background: url(../images/person.html) no-repeat 440px 10px;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+.content1 input[type="password"] {
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    border: 1px solid white;
+    color: white;
+    text-align: left;
+    outline: none;
+    font-size: 25px;
+    font-family: 'Poiret One', cursive;
+    background: url(../images/lock.html) no-repeat 440px 10px;
+    margin-top: 6%;
+    border-radius: 4px;
+}
+.button-row {
+    width: 100%;
+    margin-top: 9%;
+}
+.sign-in {
+    padding: 10px;
+    background-color: #000;
+    width: 35%;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    transition: all 0.5s ease-in-out;
+    margin-left: 11%;
+    float: left;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+.sign-in:hover {
+    background-color: #000;
+    color: white;
+    transition: all 0.5s ease-in-out;
+}
+.reset {
+    padding: 10px;
+    background-color: #000;
+    width: 35%;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    transition: all 0.5s ease-in-out;
+    margin-left: 8%;
+    float: left;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+.reset:hover {
+    background-color: #000;
+    color: white;
+    transition: all 0.5s ease-in-out;
+}
+.content1 p {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    float: left;
+    margin-left: 37%;
+    font-family: 'Poiret One', sans-serif;
+    margin-top: 5%;
+}
+.content1 p a,
+a:active {
+    text-decoration: none;
+    color: white;
+}
+.content1 p a:hover {
+    transition: all 0.5s ease-in-out;
+    color: #000;
+}
+.header2 {
+    text-align: center;
+    width: 100%;
+    margin-top: 7%;
+}
+.header2 h1 {
+    font-size: 40px;
+    font-family: 'Tahoma', sans-serif;
+    text-transform: uppercase;
+    color: white;
+}
+.content2 {
+    width: 45%;
+    margin: 3% auto 3% auto;
+    text-align: center;
+    background-color: #000;
+    height: 540px;
+    padding: 30px;
+    border-radius: 7px;
+}
+.fileContainer {
+    overflow: hidden;
+    position: relative;
+}
+.fileContainer [type=file] {
+    cursor: inherit;
+    display: block;
+    font-size: 999px;
+    min-height: 100%;
+    min-width: 100%;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 0;
+}
+.fileContainer {
+    background: #e17366;
+    border-radius: 50%;
+    float: left;
+    padding: 10px;
+    border: 2.5px solid white;
+    color: white;
+    font-size: 20px;
+    height: 70px;
+    width: 70px;
+    margin: 1% 0 0 42%;
+    font-family: 'Lobster', cursive;
+}
+.content2 input[type="text"] {
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    border: 1px solid white;
+    color: white;
+    text-align: left;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    background: url(../images/person.html) no-repeat 440px 10px;
+    margin-top: 5%;
+    border-radius: 4px;
+}
+select {
+    padding: 10px 40px 10px 10px;
+    width: 78.5%;
+    border: 1px solid white;
+    color: white;
+    text-align: left;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    margin-top: 5%;
+    border-radius: 4px;
+    background-color: #000;
+}
+option {
+    background-color: #000;
+}
+.content2 input[type="tel"] {
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    border: 1px solid white;
+    color: white;
+    text-align: left;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    background: url(../images/phone.html) no-repeat 440px 10px;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+.content2 input[type="email"] {
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    border: 1px solid white;
+    color: white;
+    text-align: left;
+    outline: none;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    background: url(../images/mail.html) no-repeat 440px 10px;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+.content2 input[type="password"] {
+    padding: 10px 40px 10px 10px;
+    width: 70%;
+    border: 1px solid white;
+    color: white;
+    text-align: left;
+    outline: none;
+    font-size: 25px;
+    font-family: 'Poiret One', cursive;
+    background: url(../images/lock.html) no-repeat 440px 10px;
+    margin-top: 4%;
+    border-radius: 4px;
+}
+.register {
+    padding: 10px;
+    background-color: #000;
+    width: 78%;
+    cursor: pointer;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    transition: all 0.5s ease-in-out;
+    margin-top: 7%;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+.register:hover {
+    background-color: #000;
+    color: white;
+    transition: all 0.5s ease-in-out;
+}
+.footer {
+    margin-top: 3%;
+    text-align: center;
+}
+.footer p {
+    font-size: 15px;
+    font-family: 'Tahoma', cursive;
+    line-height: 25px;
+}
+.footer a,
+a:active {
+    color: black;
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+.footer a:hover {
+    color: #000;
+    transition: all 0.5s ease-in-out;
+}
+/*-- responsive-mediaquries --*/
+
+@media(max-width:1920px) {
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 611px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 611px 10px;
+    }
+    .content1 {
+        height: 390px;
+    }
+    .sign-in {
+        margin-left: 12%;
+    }
+    .reset {
+        margin-left: 6%;
+    }
+    .content1 p {
+        margin-left: 41%;
+    }
+    .fileContainer {
+        margin: 3% 0 0 45%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 611px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 611px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 611px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 611px 10px;
+    }
+    .content2 {
+        height: 600px;
+    }
+}
+@media(max-width:1680px) {
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 539px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 539px 10px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 539px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 539px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 539px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 539px 10px;
+    }
+}
+@media(max-width:1600px) {
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 516px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 516px 10px;
+    }
+    .content1 p {
+        margin-left: 39%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 518px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 518px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 518px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 518px 10px;
+    }
+    .fileContainer {
+        margin: 3% 0 0 44%;
+    }
+}
+@media (max-width: 1440px) {
+    .content1 {
+        height: 350px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 467px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 467px 10px;
+    }
+    .content2 {
+        height: 550px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 465px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 465px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 465px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 465px 10px;
+    }
+}
+@media (max-width: 1366px) {
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 440px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 440px 10px;
+    }
+    .content1 p {
+        margin-left: 37%;
+    }
+    .fileContainer {
+        margin: 3% 0 0 42%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 440px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 440px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 440px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 440px 10px;
+    }
+    .content1 {
+        height: 340px;
+    }
+    .content2 {
+        height: 540px;
+    }
+}
+@media (max-width: 1280px) {
+    .content1 {
+        height: 325px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 415px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 415px 10px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 415px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 415px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 415px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 415px 10px;
+    }
+}
+@media (max-width: 1080px) {
+    .content1 {
+        width: 50%;
+        height: 315px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 395px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 395px 10px;
+    }
+    .sign-in {
+        margin-left: 10%;
+    }
+    .reset {
+        margin-left: 10%;
+    }
+    .content2 {
+        height: 520px;
+        width: 50%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 395px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 395px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 395px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 395px 10px;
+    }
+}
+@media (max-width: 1050px) {
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 385px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 385px 10px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 385px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 385px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 385px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 385px 10px;
+    }
+}
+@media (max-width: 1024px) {
+    .content1 {
+        width: 50%;
+    }
+    .content1 {
+        height: 310px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 370px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 370px 10px;
+    }
+    .content1 p {
+        margin-left: 35%;
+    }
+    .sign-in {
+        margin-left: 10%;
+    }
+    .reset {
+        margin-left: 10%;
+    }
+    .content2 {
+        width: 50%;
+    }
+    .content2 {
+        height: 510px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 370px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 370px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 370px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 370px 10px;
+    }
+}
+@media (max-width: 991px) {
+    .content1 {
+        width: 55%;
+        height: 320px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 395px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 395px 10px;
+    }
+    .content2 {
+        width: 55%;
+        height: 520px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 395px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 395px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 395px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 395px 10px;
+    }
+}
+@media (max-width: 900px) {
+    .content1 {
+        height: 300px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 360px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 360px 10px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 360px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 360px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 360px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 360px 10px;
+    }
+    .content2 {
+        height: 500px;
+    }
+}
+@media (max-width: 800px) {
+    .content1 {
+        width: 60%;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 350px 10px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 350px 10px;
+    }
+    .content2 {
+        width: 60%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 350px 10px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 350px 10px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 350px 10px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 350px 10px;
+    }
+}
+@media (max-width: 768px) {
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 354px 10px;
+        width: 75%;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 354px 10px;
+        width: 75%;
+    }
+    .sign-in {
+        margin-left: 7%;
+    }
+    .reset {
+        margin-left: 16%;
+    }
+    .fileContainer {
+        margin: 3% 0 0 40%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 354px 10px;
+        width: 75%;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 354px 10px;
+        width: 75%;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 354px 10px;
+        width: 75%;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 354px 10px;
+        width: 75%;
+    }
+}
+@media (max-width: 736px) {
+    .content1 {
+        width: 63%;
+    }
+    .content1 p {
+        margin-left: 31%;
+    }
+    .content2 {
+        width: 63%;
+    }
+}
+@media (max-width: 667px) {
+    .content1 {
+        width: 70%;
+    }
+    .content1 input[type="text"] {
+        width: 75%;
+        background: url(../images/person.html) no-repeat 357px 10px;
+    }
+    .content1 input[type="password"] {
+        width: 75%;
+        background: url(../images/lock.html) no-repeat 357px 10px;
+    }
+    .sign-in {
+        margin-left: 8%;
+    }
+    .reset {
+        margin-left: 14%;
+    }
+    .content1 p {
+        margin-left: 32%;
+    }
+    .content2 {
+        width: 70%;
+    }
+    .header2 {
+        margin-top: 10%;
+    }
+    .fileContainer {
+        margin: 3% 0 0 40%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 357px 10px;
+        width: 75%;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 357px 10px;
+        width: 75%;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 357px 10px;
+        width: 75%;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 357px 10px;
+        width: 75%;
+    }
+}
+@media (max-width: 640px) {
+    .content1 {
+        width: 70%;
+        height: 290px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 337px 10px;
+        width: 73%;
+    }
+    .content1 input[type="password"] {
+        width: 73%;
+        background: url(../images/lock.html) no-repeat 337px 10px;
+    }
+    .sign-in {
+        margin-left: 7%;
+    }
+    .reset {
+        margin-left: 16%;
+    }
+    .content2 {
+        width: 70%;
+        height: 485px;
+    }
+    .content2 input[type="text"],
+    select {
+        width: 73%;
+        background: url(../images/person.html) no-repeat 337px 10px;
+    }
+    .content2 input[type="tel"] {
+        width: 73%;
+        background: url(../images/phone.html) no-repeat 337px 10px;
+    }
+    .content2 input[type="email"] {
+        width: 73%;
+        background: url(../images/mail.html) no-repeat 337px 10px;
+    }
+    .content2 input[type="password"] {
+        width: 73%;
+        background: url(../images/lock.html) no-repeat 337px 10px;
+    }
+    .register {
+        width: 85%;
+    }
+}
+@media (max-width: 600px) {
+    .content1 {
+        height: 280px;
+    }
+    .content2 {
+        height: 470px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 355px 10px;
+        width: 83%;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 355px 10px;
+        width: 83%;
+    }
+    .sign-in {
+        margin-left: 3%;
+        width: 38%;
+    }
+    .reset {
+        margin-left: 19%;
+        width: 38%;
+    }
+    .header2 {
+        margin-top: 10%;
+    }
+    .fileContainer {
+        margin: 3% 0 0 40%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 355px 10px;
+        width: 83%;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 355px 10px;
+        width: 83%;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 355px 10px;
+        width: 83%;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 355px 10px;
+        width: 83%;
+    }
+}
+@media (max-width: 568px) {
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 335px 10px;
+        width: 82%;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 335px 10px;
+        width: 82%;
+    }
+    .sign-in {
+        margin-left: 3%;
+    }
+    .reset {
+        margin-left: 19%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 335px 10px;
+        width: 82%;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 335px 10px;
+        width: 82%;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 335px 10px;
+        width: 82%;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 335px 10px;
+        width: 82%;
+    }
+}
+@media (max-width: 480px) {
+    .content1 {
+        width: 75%;
+        height: 260px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 316px 10px;
+        width: 85%;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 316px 10px;
+        width: 85%;
+    }
+    .sign-in {
+        margin-left: 1%;
+    }
+    .reset {
+        margin-left: 22%;
+    }
+    .content1 p {
+        margin-left: 25%;
+    }
+    .content2 {
+        width: 75%;
+        height: 450px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 316px 10px;
+        width: 85%;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 316px 10px;
+        width: 85%;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 316px 10px;
+        width: 85%;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 316px 10px;
+        width: 85%;
+    }
+    .register {
+        width: 99%;
+    }
+}
+@media (max-width: 414px) {
+    .header1 h1 {
+        font-size: 31px;
+    }
+    .content1 {
+        width: 80%;
+        padding: 20px;
+        height: 250px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 282px 10px;
+        width: 83%;
+        font-size: 22px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 282px 10px;
+        width: 83%;
+        font-size: 22px;
+    }
+    .sign-in {
+        font-size: 22px;
+        width: 38%;
+    }
+    .reset {
+        font-size: 22px;
+        width: 38%;
+        margin-left: 22%;
+    }
+    .content1 p {
+        font-size: 17px;
+    }
+    .header2 {
+        margin-top: 12%;
+    }
+    .header2 h1 {
+        font-size: 31px;
+    }
+    .content2 {
+        width: 80%;
+        padding: 20px;
+        height: 435px;
+    }
+    .fileContainer {
+        margin: 3% 0 0 36%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 282px 10px;
+        width: 83%;
+        font-size: 22px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 282px 10px;
+        width: 83%;
+        font-size: 22px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 282px 10px;
+        width: 83%;
+        font-size: 22px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 282px 10px;
+        width: 83%;
+        font-size: 22px;
+    }
+    .register {
+        font-size: 22px;
+    }
+}
+@media (max-width: 384px) {
+    .content1 {
+        height: 235px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 263px 10px;
+        font-size: 20px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 263px 10px;
+        font-size: 20px;
+    }
+    .sign-in {
+        font-size: 20px;
+    }
+    .reset {
+        font-size: 20px;
+    }
+    .content2 {
+        height: 415px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 263px 10px;
+        font-size: 20px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 263px 10px;
+        font-size: 20px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 263px 10px;
+        font-size: 20px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 263px 10px;
+        font-size: 20px;
+    }
+    .register {
+        font-size: 20px;
+    }
+}
+@media (max-width: 375px) {
+    .header1 h1 {
+        font-size: 29px;
+    }
+    .content1 {
+        width: 80%;
+        height: 230px;
+        padding: 20px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 255px 10px;
+        width: 82%;
+        font-size: 20px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 255px 10px;
+        width: 82%;
+        font-size: 20px;
+    }
+    .sign-in {
+        font-size: 20px;
+        width: 40%;
+    }
+    .reset {
+        font-size: 20px;
+        margin-left: 18%;
+        width: 40%;
+    }
+    .content1 p {
+        font-size: 17px;
+    }
+    .header2 {
+        margin-top: 10%;
+    }
+    .header2 h1 {
+        font-size: 29px;
+    }
+    .content2 {
+        width: 80%;
+        padding: 20px;
+        height: 405px;
+    }
+    .fileContainer {
+        margin: 2% 0 0 34%;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 255px 10px;
+        width: 82%;
+        font-size: 20px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 255px 10px;
+        width: 82%;
+        font-size: 20px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 255px 10px;
+        width: 82%;
+        font-size: 20px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 255px 10px;
+        width: 82%;
+        font-size: 20px;
+    }
+    .register {
+        font-size: 20px;
+    }
+}
+@media (max-width: 320px) {
+    .header1 h1 {
+        font-size: 27px;
+    }
+    .content1 {
+        padding: 20px;
+        height: 210px;
+    }
+    .content1 input[type="text"] {
+        background: url(../images/person.html) no-repeat 211px 10px;
+        width: 78%;
+        font-size: 18px;
+    }
+    .content1 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 211px 10px;
+        width: 78%;
+        font-size: 18px;
+    }
+    .sign-in {
+        font-size: 18px;
+        width: 40%;
+    }
+    .reset {
+        font-size: 18px;
+        width: 40%;
+        margin-left: 19%;
+    }
+    .content1 p {
+        margin: 7% 0 0 22%;
+        font-size: 17px;
+    }
+    .header2 {
+        margin-top: 12%;
+    }
+    .header2 h1 {
+        font-size: 26px;
+    }
+    .content2 {
+        padding: 20px;
+        height: 380px;
+    }
+    .fileContainer {
+        margin: 2% 0 0 30%;
+        height: 65px;
+        width: 65px;
+    }
+    .content2 input[type="text"],
+    select {
+        background: url(../images/person.html) no-repeat 211px 10px;
+        width: 78%;
+        font-size: 18px;
+    }
+    .content2 input[type="tel"] {
+        background: url(../images/phone.html) no-repeat 211px 10px;
+        width: 78%;
+        font-size: 18px;
+    }
+    .content2 input[type="email"] {
+        background: url(../images/mail.html) no-repeat 211px 10px;
+        width: 78%;
+        font-size: 18px;
+    }
+    .content2 input[type="password"] {
+        background: url(../images/lock.html) no-repeat 211px 10px;
+        width: 78%;
+        font-size: 18px;
+    }
+    .register {
+        font-size: 18px;
+    }
+    .footer p {
+        font-size: 13px;
+    }
+}

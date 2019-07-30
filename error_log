@@ -1,0 +1,8 @@
+[28-Jul-2017 22:38:10 UTC] PHP Parse error:  syntax error, unexpected '".' (T_CONSTANT_ENCAPSED_STRING) in /home/ubwem/public_html/ML/lucky/completed.php on line 32
+[28-Jul-2017 22:43:03 UTC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/ubwem/public_html/ML/lucky/completed.php on line 40
+[28-Jul-2017 22:46:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubwem/public_html/ML/lucky/completed.php on line 40
+[28-Jul-2017 22:47:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubwem/public_html/ML/lucky/completed.php on line 40
+[28-Jul-2017 22:47:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubwem/public_html/ML/lucky/completed.php on line 40
+[28-Jul-2017 22:48:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubwem/public_html/ML/lucky/completed.php on line 40
+[28-Jul-2017 22:48:45 UTC] PHP Parse error:  syntax error, unexpected 'margin' (T_STRING) in /home/ubwem/public_html/ML/lucky/completed.php on line 66
+[28-Jul-2017 22:51:41 UTC] PHP Parse error:  syntax error, unexpected 'margin' (T_STRING) in /home/ubwem/public_html/ML/lucky/completed.php on line 66
